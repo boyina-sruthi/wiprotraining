@@ -1,0 +1,14 @@
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\boyin\Documents\wiprotraining\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
