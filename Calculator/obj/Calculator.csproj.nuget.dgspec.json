@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boyin\\Documents\\wiprotraining\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\boyin\\Documents\\wiprotraining\\calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boyin\\Documents\\wiprotraining\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\boyin\\Documents\\wiprotraining\\calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boyin\\Documents\\wiprotraining\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\boyin\\Documents\\wiprotraining\\calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\boyin\\Documents\\wiprotraining\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\boyin\\Documents\\wiprotraining\\calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\boyin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boyin\\Documents\\wiprotraining\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\boyin\\Documents\\wiprotraining\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boyin\\AppData\\Roaming\\NuGet\\NuGet.Config"

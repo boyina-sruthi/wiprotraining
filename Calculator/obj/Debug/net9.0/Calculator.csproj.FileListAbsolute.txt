@@ -12,3 +12,4 @@ C:\Users\boyin\Documents\wiprotraining\Calculator\obj\Debug\net9.0\refint\Calcul
 C:\Users\boyin\Documents\wiprotraining\Calculator\obj\Debug\net9.0\Calculator.pdb
 C:\Users\boyin\Documents\wiprotraining\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
 C:\Users\boyin\Documents\wiprotraining\Calculator\obj\Debug\net9.0\ref\Calculator.dll
+C:\Users\boyin\Documents\wiprotraining\calculator\obj\Debug\net9.0\Calculator.sourcelink.json
