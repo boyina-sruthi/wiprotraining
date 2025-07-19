@@ -1,0 +1,15 @@
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.AssemblyInfoInputs.cache
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.AssemblyInfo.cs
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.csproj.CoreCompileInputs.cache
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.sourcelink.json
+C:\Users\boyin\Documents\wiprotraining\contolstatements\bin\Debug\net9.0\contolstatements.exe
+C:\Users\boyin\Documents\wiprotraining\contolstatements\bin\Debug\net9.0\contolstatements.deps.json
+C:\Users\boyin\Documents\wiprotraining\contolstatements\bin\Debug\net9.0\contolstatements.runtimeconfig.json
+C:\Users\boyin\Documents\wiprotraining\contolstatements\bin\Debug\net9.0\contolstatements.dll
+C:\Users\boyin\Documents\wiprotraining\contolstatements\bin\Debug\net9.0\contolstatements.pdb
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.dll
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\refint\contolstatements.dll
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.pdb
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\contolstatements.genruntimeconfig.cache
+C:\Users\boyin\Documents\wiprotraining\contolstatements\obj\Debug\net9.0\ref\contolstatements.dll
